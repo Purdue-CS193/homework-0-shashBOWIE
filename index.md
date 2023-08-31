@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Shashwats First CS193 Assignment
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -24,6 +24,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 ```
+### Favorite things about CS193
+- Friendly intro CS class
+- cool people ig
+- idk what else
 
 For more details see something Purdue CS.
 
